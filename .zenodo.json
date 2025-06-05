@@ -6,7 +6,7 @@
       "affiliation": "Universidad de Cádiz"
     }
   ],
-  "description": "Notebook en Python para análisis de datos climatológicos (temperatura y precipitación) de la estación de Tarifa, usado en prácticas de Metodología de la Investigación, Máster en Energías Renovables y Eficiencia Energética, Universidad de Cádiz, curso 2024-2025.",
+  "description": "Notebook en Python para análisis inicial de datos climatológicos (temperatura y precipitación) de la estación de Tarifa, usado en prácticas de Metodología de la Investigación, Máster en Energías Renovables y Eficiencia Energética, Universidad de Cádiz, curso 2024-2025.",
   "license": "mit",
   "keywords": ["software docente", "análisis de datos", "energías renovables", "Python", "AEMET"],
   "publication_date": "2025-06-05",
